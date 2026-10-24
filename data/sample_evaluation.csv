@@ -1,0 +1,9 @@
+resume_text,job_description,relevance_label
+"Built a Python forecasting model using historical sales data for a retail analytics project. Used pandas and scikit-learn to prepare data and evaluate predictions.","Seeking a developer with Python, forecasting, machine learning, pandas, and scikit-learn experience.",1
+"Managed retail inventory, prepared weekly stock reports, and coordinated store replenishment with a small team.","Seeking an NLP engineer with Python, transformer models, semantic search, and machine learning experience.",0
+"Developed a text classification prototype using Python, TF-IDF, and scikit-learn. Evaluated precision and recall on labeled text examples.","Seeking a junior NLP engineer with Python, text classification, TF-IDF, and model evaluation experience.",1
+"Created monthly sales presentations and maintained customer records. Coordinated appointments and answered customer questions.","Seeking a backend developer experienced in Java, REST APIs, SQL databases, and automated testing.",0
+"Used SQL queries to aggregate order data and Python scripts to automate recurring data-cleaning tasks. Built a Power BI dashboard.","Seeking a data analyst with SQL, Python, data cleaning, and dashboarding skills.",1
+"Designed social media graphics, scheduled posts, and reviewed campaign engagement reports. Worked with a marketing team.","Seeking a machine learning engineer with deep learning, PyTorch, model deployment, and Python experience.",0
+"Implemented a REST API in Python with Flask and PostgreSQL. Used Git for version control and wrote unit tests for endpoints.","Seeking a Python backend developer with Flask, PostgreSQL, REST API, Git, and testing experience.",1
+"Worked as a cashier and customer service associate. Handled payments, answered questions, and maintained daily records.","Seeking a data scientist with Python, statistics, machine learning, and predictive modeling experience.",0
